@@ -1,4 +1,5 @@
-package dennisMohle.myZoo.com;
+package dennisMohle;
+
 
 public class Animal {
 
